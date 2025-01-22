@@ -13,9 +13,7 @@
 		<StartupObject>ExampleWpfApp.Velopack.GoogleDrive.Program</StartupObject>
 	</PropertyGroup>
 
-
-
-
+ 
  
 	<ItemGroup>
 		<PackageReference Include="Google.Apis" Version="1.68.0" />
